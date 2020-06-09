@@ -1,0 +1,76 @@
+body {
+
+}
+nav {
+    height: 80px;
+    background-color: rgb(31, 27, 27);
+    
+}
+
+.mysearch {
+    margin: auto;
+    width: 543px;
+    padding: 5px;
+}
+#match-list {
+    margin: auto;
+    position: absolute;
+    width: 530px;
+    display: block;
+    background-color: rgb(36, 36, 37);
+    z-index: 100;
+}
+.myresult {
+    position: relative;
+}
+
+.mytab {
+    margin: 0 auto;
+    width: 80%;
+    visibility: hidden;
+    
+}
+
+.nav-tabs {
+    /*
+    justify-content: center;
+    */
+}
+hr {
+    background-color:rgb(77, 78, 76);
+}
+
+.news {
+    padding-top: 20px;
+    font-size: small;
+    
+}
+
+.news >h6 {
+    color: rgb(9, 120, 134);
+    text-align: center;
+    font-weight: bold;
+}
+.news >p {
+    text-align: right;
+    font-size: 8px;
+}
+.nes > a {
+    columns: white;
+}
+
+.forex {
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    width: 100%;
+    height: 50px;
+    font-size: 11px;
+    text-align: center;
+
+    
+}
+
+
+

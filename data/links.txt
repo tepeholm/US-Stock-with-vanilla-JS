@@ -1,0 +1,8 @@
+rates
+https://finnhub.io/api/v1/forex/rates?base=USD&token=br8pnfvrh5ral083is1g
+
+
+financials
+https://finnhub.io/api/v1/stock/financials-reported?symbol=AAPL&freq=quarterly&token=br8pnfvrh5ral083is1g
+
+

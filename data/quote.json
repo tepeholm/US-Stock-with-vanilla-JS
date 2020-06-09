@@ -1,0 +1,25 @@
+
+[ {
+    "symbol" : "AAPL",
+    "name" : "Apple Inc.",
+    "price" : 317.94000000,
+    "changesPercentage" : -0.10000000,
+    "change" : -0.31000000,
+    "dayLow" : 316.47000000,
+    "dayHigh" : 321.15000000,
+    "yearHigh" : 327.85000000,
+    "yearLow" : 170.27000000,
+    "marketCap" : 1378056798208.00000000,
+    "priceAvg50" : 298.13560000,
+    "priceAvg200" : 287.63474000,
+    "volume" : 38399532,
+    "avgVolume" : 49011820,
+    "exchange" : "NASDAQ",
+    "open" : 319.25000000,
+    "previousClose" : 318.25000000,
+    "eps" : 12.72800000,
+    "pe" : 24.97957400,
+    "earningsAnnouncement" : "2020-04-30T20:30:00.000+0000",
+    "sharesOutstanding" : 4334329742,
+    "timestamp" : 1590843629
+  } ]
